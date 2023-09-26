@@ -1,0 +1,19 @@
+// Custom styles
+@use 'custom';
+
+// Import Components
+@use 'components/animations';
+@use 'components/buttons';
+@use 'components/fonts';
+@use 'components/mixins';
+
+// IMPORT Sections
+@use 'sections/navbar';
+@use 'sections/herosection';
+@use 'sections/services';
+@use 'sections/portfolio';
+@use 'sections/getstarted';
+@use 'sections/testimonials';
+@use 'sections/clients';
+@use 'sections/faq';
+@use 'sections/footer';
